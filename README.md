@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @IKARUZREDTEAM
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+403 BYPASS PHP SHELL
+DEFAULT PASS: 403
 
-<!---
-IKARUZREDTEAM/IKARUZREDTEAM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![image](https://github.com/403BYPASSSHELL/403-BYPASS-SHELL/assets/141240085/0a8c6745-f806-4800-a4f6-8115e0cc4d3d)
+
+
+USE MD5 ENDCRYPT TO CHANGE THE PASSWORD DEFAULT
+![image](https://github.com/403BYPASSSHELL/403-BYPASS-SHELL/assets/141240085/fc399e55-498f-471d-8224-f955de074a27)
